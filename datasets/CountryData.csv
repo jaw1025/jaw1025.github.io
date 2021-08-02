@@ -1,11 +1,11 @@
-﻿country,shareofhashrate
-China,46.04
-United States,16.85
-Kazakhstan,8.19
-Russian Federation,6.84
-Other,5.92
-"Iran, Islamic Rep.",4.64
-Malaysia,3.44
-Canada,3
-Germany,2.81
-Ireland,2.27
+﻿country,code,shareofhashrate
+China,CHN,46.04
+United States,USA,16.85
+Kazakhstan,KAZ,8.19
+Russian Federation,RUS,6.84
+Other,,5.92
+"Iran, Islamic Rep.",IRN,4.64
+Malaysia,MYS,3.44
+Canada,CAN,3
+Germany,DEU,2.81
+Ireland,IRL,2.27
