@@ -47,6 +47,11 @@
   fill: rgba(0, 0, 0, 0);
 }
 
+.annotation-subject {
+    opacity: 1;
+    fill: rgba(0, 0, 0, 0);
+}
+
 .annotation-note-title {
   font-weight: bold;
 }
@@ -56,9 +61,23 @@ text.title {
   font-weight: bold;
 }
 
-.container {
-    width: 100%;
+.horizontal-container {
+    display: flex;
+    align-items: center;
+}
+
+.vertical-container {
     display: flex;
     flex-direction: column;
-  }
+}
+
+h2 {
+    justify-content: center;
+    display: flex;
+    font-weight: bold;
+}
+
+.spacing {
+    margin-left: 20px;
+}
   
